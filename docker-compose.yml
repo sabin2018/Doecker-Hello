@@ -2,4 +2,4 @@ version: '2'
 services:
   hello_world:
     image: ubuntu
-    command: [/bin/echo, 'test trigger18']
+    command: [/bin/echo, 'test trigger19']
